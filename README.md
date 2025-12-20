@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img src="assets/banner.png" width="800"/>
 </p>
-
+-->
 <h1 align="center">Hi, I'm Thammanna 🌱✨</h1>
 
 <p align="center">
@@ -12,7 +13,7 @@
 
 ---
 
-# 💫 About Me
+### 💫 About Me
 
 I’m a **creative problem-solver** who loves turning ideas into things that *actually work*.
 My interests live at the intersection of **Machine Learning, Robotics, Healthcare and Intelligent Systems** —
@@ -30,7 +31,7 @@ that’s through code, hardware, or intelligent systems that interact with the r
 (learning by building, breaking, and rebuilding 🚀)
 
 
-# 🧠 Things I’m Curious About
+### 🧠 Things I’m Curious About
 
 - 🤖 Robotics & Human–Machine Interaction  
 - 🧠 Intelligent Systems & AI-driven solutions  
@@ -38,7 +39,7 @@ that’s through code, hardware, or intelligent systems that interact with the r
 - ✨ Creating things that are both **useful and beautiful**
 
 
-# 🛠️ Tech I Work With (and am learning more of)
+### 🛠️ Tech I Work With (and am learning more of)
 
 <p align="center">
   <!-- You can add/remove icons freely -->
@@ -53,7 +54,7 @@ that’s through code, hardware, or intelligent systems that interact with the r
   <em>(More coming soon as I keep building 👀✨)</em>
 </p>
 
-# 🌸 Let’s Connect
+### 🌸 Let’s Connect
 
 <p align="center">
   <!-- Replace links with your own -->
