@@ -1,28 +1,26 @@
-<!--
-<p align="center">
-  <img src="assets/banner.png" width="800"/>
-</p>
--->
 <h1 align="center">Hi, I'm Thammanna 🌱✨</h1>
 
 <p align="center">
-  <em>
-    Dream • Create • Conquer
-  </em>
+  <img src="assets/Banner.png" width="1000"/>
 </p>
 
----
+<table>
+  <tr>
+    <td>
+      <h3> About Me! </h3>
+      <p> I’m a creative problem-solver who loves turning ideas into things that *actually work*. <br>
+          My interests live at the intersection of Machine Learning, Robotics, Healthcare and <br> 
+          Intelligent Systems — where logic meets imagination.<br> 
+          I enjoy building projects that are functional, thoughtful, and a little creative, whether <br>
+          that’s through code, hardware, or intelligent systems that interact with the real world.</p>
+    </td>
+    <td align="center">
+      <img src="assets/Psyduck.png" width="180"/>
+    </td>
+  </tr>
+</table>
 
-### 💫 About Me
-
-I’m a creative problem-solver who loves turning ideas into things that *actually work*.
-My interests live at the intersection of Machine Learning, Robotics, Healthcare and Intelligent Systems —
-where logic meets imagination 🤖🧠✨  
-
-I enjoy building projects that are functional, thoughtful, and a little creative, whether
-that’s through code, hardware, or intelligent systems that interact with the real world.
-
-🌱 Currently, I’m sharpening my skills in:
+### 📈 Currently, I’m working on:
 - Improving my coding foundations  
 - Diving deeper into ML, DL & AI concepts  
 - Exploring robotics & intelligent systems through projects  
@@ -32,39 +30,33 @@ that’s through code, hardware, or intelligent systems that interact with the r
 
 
 ### 🧠 Things I’m Curious About
-- 🤖 Robotics & Human–Machine Interaction  
-- 🧠 Intelligent Systems & AI-driven solutions  
-- 🩺 Tech for healthcare & real-world impact  
-- ✨ Creating things that are both **useful and beautiful**
+- Robotics & Human–Machine Interaction  
+- Intelligent Systems & AI-driven solutions  
+- Tech for healthcare & real-world impact  
+- Creating things that are both **useful and beautiful**
 
-
-### 🛠️ Tech I Work With (and am learning more of)
-<p align="center">
-  <!-- You can add/remove icons freely -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <em>(More coming soon as I keep building 👀✨)</em>
-</p>
 
 ### 🌸 Let’s Connect
-<p align="center">
+<p align="right">
   <!-- Replace links with your own -->
+  <h6> Connect on LinkedIn! </h6>
    <a href="https://www.linkedin.com/in/thammanna-s-09755529a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  
+  <br>
+  <h6> Drop me an E-mail!</h6>
   <a href="mailto:thammannas.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br> 
   <!--
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 -->
+
+ <h3 align="center"> Check out my projects as I keep building and learning more! </h3>
+
+
