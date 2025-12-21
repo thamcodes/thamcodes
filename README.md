@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thammanna 🌻</h1>
+<h1 align="center">Hey, I'm Thammanna 🌻</h1>
 
 <p align="center">
   <img src="assets/Banner.png" width="1000"/>
