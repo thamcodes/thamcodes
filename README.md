@@ -10,13 +10,13 @@
       <h3> About Me! </h3>
       <p> I’m a creative problem-solver who loves turning ideas into things that *actually work*. <br>
           My interests live at the intersection of Machine Learning, Robotics, Healthcare and <br> 
-          Intelligent Systems — where logic meets imagination.
-        <br> 
+          Intelligent Systems — where logic meets imagination. <br>
           I enjoy building projects that are functional, thoughtful, and a little creative, whether <br>
-          that’s through code, hardware, or intelligent systems that interact with the real world.</p>
+          that’s through code, hardware, or intelligent systems that interact with the real world.
+      </p>
     </td>
     <td align="center">
-      <img src="assets/Psyduck.jpeg" width="180"/>
+      <img src="assets/Psyduck.jpeg" width="300"/>
     </td>
   </tr>
 </table>
@@ -58,6 +58,6 @@
 </p>
 -->
 
- <h3 align="center"> Check out my projects as I keep building and learning more! </h3>
+ <h3 align="center"> Check out my projects as I keep building and learning more! ✨ </h3>
 
 
