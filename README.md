@@ -15,7 +15,7 @@
           that’s through code, hardware, or intelligent systems that interact with the real world.</p>
     </td>
     <td align="center">
-      <img src="assets/Psyduck.png" width="180"/>
+      <img src="assets/Psyduck.jpeg" width="180"/>
     </td>
   </tr>
 </table>
