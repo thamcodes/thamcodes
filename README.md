@@ -34,7 +34,7 @@
 - Robotics & Human–Machine Interaction  
 - Intelligent Systems & AI-driven solutions  
 - Tech for healthcare & real-world impact  
-- Creating things that are both **useful and beautiful**
+- Creating things that are both useful and beautiful
 
 
 ### 🌸 Let’s Connect
