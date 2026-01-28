@@ -16,7 +16,7 @@
       </p>
     </td>
     <td align="center">
-      <img src="assets/Psyduck.jpeg" width="300"/>
+      <img src="assets/Psyduck.jpeg" width="250"/>
     </td>
   </tr>
 </table>
