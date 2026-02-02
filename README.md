@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br>
-  <h6>Copy Manually here - thammannas.official@gmail.com</h6>
+  Copy Manually here - thammannas.official@gmail.com
   
   <br> 
   <h6>Check out My portfolio</h6>
