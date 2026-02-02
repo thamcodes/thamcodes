@@ -39,7 +39,6 @@
 
 ### 🌸 Let’s Connect
 <p align="right">
-  <!-- Replace links with your own -->
   <h6> Connect on LinkedIn! </h6>
    <a href="https://www.linkedin.com/in/thammanna-s-09755529a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -50,9 +49,11 @@
   <a href="mailto:thammannas.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  Copy Manually here - `thammannas.official@gmail.com`
-  <br> 
+  <br>
+  Copy Manually here - thammannas.official@gmail.com
   
+  <br> 
+  <h6>Check out My portfolio</h6>
   <a href="https://thamcodes.github.io/website-portfolio/" target = "_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
