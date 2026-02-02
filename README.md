@@ -50,9 +50,10 @@
   <a href="mailto:thammannas.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  Copy Manually here - `thammannas.official@gmail.com`
   <br> 
-  <!--
-  <a href="https://your-portfolio-link.com">
+  
+  <a href="https://thamcodes.github.io/website-portfolio/" target = "_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
