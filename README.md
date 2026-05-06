@@ -9,8 +9,8 @@
     <td>
       <h3> About Me! </h3>
       <p> I’m a creative problem-solver who loves turning ideas into things that <i>actually work</i>. <br> 
-          My interests live at the intersection of Machine Learning, Robotics, Healthcare and <br> 
-          Intelligent Systems — where logic meets imagination. <br>
+          My interests live at the intersection of Robotics, Machine Learning, Embedded systems, <br>
+          Healthcare and Intelligent Systems — where logic meets imagination. <br>
           I enjoy building projects that are functional, thoughtful, and a little creative, whether <br>
           that’s through code, hardware, or intelligent systems that interact with the real world.
       </p>
@@ -20,14 +20,6 @@
     </td>
   </tr>
 </table>
-
-### 📈 Currently, I’m working on:
-- Improving my coding foundations  
-- Diving deeper into ML, DL & AI concepts  
-- Exploring robotics & intelligent systems through projects  
-- Turning ideas into tangible prototypes & code
-  
-(learning by building, breaking, and rebuilding 🚀)
 
 
 ### 🧠 Things I’m Curious About
